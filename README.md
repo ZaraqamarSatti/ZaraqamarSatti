@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 [
@@ -24,14 +23,12 @@
 
 ## 🧭 About Me
 
-```yaml
 name:         Zara Qamar
 role:         BBA Student | Aspiring Business Professional & Designer
 affiliation:  Institute of Space Technology (IST), Islamabad
 duration:     2026 – 2030
-focus:        [Business Administration, Graphic Designing, Branding, Marketing]
+focus:        Business Administration, Graphic Designing, Branding, Marketing
 status:       Open to internships & collaborations ✨
-```
 
 I'm a BBA student at the **Institute of Space Technology**, passionate about
 business strategy, branding, and design. I enjoy blending analytical business
@@ -66,6 +63,24 @@ on paper to polished visuals and brand identities.
 
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+
+
+
+**💻 Web Development**
+
+
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
+
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
@@ -123,4 +138,3 @@ Institute of Space Technology, Islamabad
 
 
 </div>
-````
