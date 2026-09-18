@@ -23,12 +23,12 @@
 
 ## 🧭 About Me
 
-name:         Zara Qamar
-role:         BBA Student | Aspiring Business Professional & Designer
-affiliation:  Institute of Space Technology (IST), Islamabad
-duration:     2026 – 2030
-focus:        Business Administration, Graphic Designing, Branding, Marketing
-status:       Open to internships & collaborations ✨
+name: Zara Qamar
+role: BBA Student | Aspiring Business Professional & Designer
+affiliation: Institute of Space Technology (IST), Islamabad
+duration: 2026 – 2030
+focus: Business Administration, Graphic Designing, Branding, Marketing
+status: Open to internships & collaborations ✨
 
 I'm a BBA student at the **Institute of Space Technology**, passionate about
 business strategy, branding, and design. I enjoy blending analytical business
